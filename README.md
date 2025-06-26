@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @varunmathur2005<br><br>👨🏻‍💻 Seeking Summer 2026 internships || Incoming @ SWE at PointClickCare || Prev @ Definity, Alaan (YC W23).<br><br>👀  I’m interested in software development.<br><br>📫 How to reach me :-> https://www.linkedin.com/in/varunmathur2005/<br><br>⚡ Fun fact: I am currently pursuing a Honours BCS degree at the University of Waterloo
+👋 Hi, I’m @varunmathur2005<br><br>👨🏻‍💻 Seeking Summer 2026 internships || Incoming @ SWE at PointClickCare || Currently working at WATOnomous || Prev @ Definity, Alaan (YC W23).<br><br>👀  I’m interested in software development.<br><br>📫 How to reach me :-> https://www.linkedin.com/in/varunmathur2005/<br><br>⚡ Fun fact: I am currently pursuing a Honours BCS degree at the University of Waterloo
 
 
 # 💻 Tech Stack:
